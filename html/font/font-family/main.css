@@ -1,0 +1,40 @@
+.title {
+    font-size: 36px;
+    font-family: cursive;
+}
+
+.intro {
+    font-size: 20px;
+    font-family: serif;
+}
+
+.detail {
+    font-family: Arial, sans-serif;
+}
+
+.mono {
+    font-family: monospace;
+}
+
+.conclusion {
+    font-family: fantasy;
+}
+
+a:link {
+    color: darkblue;
+}
+
+a:hover {
+    color: fuchsia;
+    border: 3px double;
+}
+
+a:active {
+    color: yellow;
+    border-radius: 25%;
+    border-style: dotted;
+}
+
+a:visited {
+    color: black;
+}
